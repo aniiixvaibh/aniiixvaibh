@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... companies like microsoft or google
 - 📫 How to reach me ... through email ID
 - 😄 Pronouns: ...u can call me as aniii
-- ⚡ Fun fact: ... i'm vert talkative person
+- ⚡ Fun fact: ... i'm very talkative person
 
 <!---
 aniiixvaibh/aniiixvaibh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
